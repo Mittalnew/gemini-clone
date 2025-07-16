@@ -8,8 +8,8 @@ I'm excited to share my latest project: a front-end clone of the Gemini conversa
 
 Curious to see it in action?
 
-🌐 **Live Demo**: [https://your-vercel-link.vercel.app](https://your-vercel-link.vercel.app)
-📂 **GitHub Repository**: [https://github.com/Mittalnew/gemini-clone](https://github.com/Mittalnew/gemini-clone)
+🌐 **Live Demo**: https://gemini-clone-seven-virid.vercel.app/login
+📂 **GitHub Repository**: https://github.com/Mittalnew/gemini-clone
 
 ---
 
@@ -69,7 +69,7 @@ Here’s a breakdown of the core functionalities I built into this clone:
 ## 📁 Project Structure & Core Logic
 
 I’ve organized the project for clarity and maintainability:
-
+```bash
 src/
 ├── components/          # Reusable UI elements (navbar, chat bubble, modals, etc.)
 ├── features/
@@ -89,7 +89,7 @@ Core Logic Explained:
 >  Robust Form Validation: The login input benefits from client-side validation using React Hook Form and Zod. This prevents empty fields and provides instant, helpful toast error messages to the user.
 
 ##How to Run It Locally:----->
-git clone [https://github.com/Mittalnew/gemini-clone](https://github.com/Mittalnew/gemini-clone)
+git clone https://github.com/Mittalnew/gemini-clone.git
 cd gemini-clone
 npm install
 npm run dev
